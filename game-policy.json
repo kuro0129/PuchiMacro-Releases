@@ -53,10 +53,9 @@
         "cs2"
       ]
     },
-
     {
       "name": "メモ帳（動作テスト）",
-      "status": "blocked"
+      "status": "blocked",
       "reason": "ゲームポリシー機能の動作テストです。",
       "processNames": [
         "notepad"
