@@ -55,7 +55,7 @@
     },
     {
       "name": "メモ帳（動作テスト）",
-      "status": "caution",
+      "status": "allowed",
       "reason": "ゲームポリシー機能の動作テストです。",
       "processNames": [
         "notepad"
