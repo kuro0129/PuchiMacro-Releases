@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "policyVersion": 1,
+  "updatedAt": "2026-09-14",
+  "entries": [
+    {
+      "name": "Apex Legends",
+      "status": "blocked",
+      "reason": "プチマクロの保護対象として設定されています。",
+      "processNames": [
+        "r5apex"
+      ]
+    },
+    {
+      "name": "Call of Duty",
+      "status": "blocked",
+      "reason": "プチマクロの保護対象として設定されています。",
+      "processNames": [
+        "cod",
+        "cod22-cod"
+      ]
+    },
+    {
+      "name": "Rainbow Six Siege",
+      "status": "blocked",
+      "reason": "プチマクロの保護対象として設定されています。",
+      "processNames": [
+        "RainbowSix",
+        "RainbowSix_Vulkan"
+      ]
+    },
+    {
+      "name": "VALORANT",
+      "status": "blocked",
+      "reason": "プチマクロの保護対象として設定されています。",
+      "processNames": [
+        "VALORANT-Win64-Shipping"
+      ]
+    },
+    {
+      "name": "Fortnite",
+      "status": "blocked",
+      "reason": "プチマクロの保護対象として設定されています。",
+      "processNames": [
+        "FortniteClient-Win64-Shipping"
+      ]
+    },
+    {
+      "name": "Counter-Strike 2",
+      "status": "blocked",
+      "reason": "プチマクロの保護対象として設定されています。",
+      "processNames": [
+        "cs2"
+      ]
+    }
+  ]
+}
